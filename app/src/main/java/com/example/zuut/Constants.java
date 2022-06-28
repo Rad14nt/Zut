@@ -3,7 +3,7 @@ package com.example.zuut;
 public class Constants {
     public static final String BIRD = "Bird";
     public static final String VOI = "Voi";
-    public static final String SCOOTI_E = "Scooti-E";
+    public static final String ZUUT = "Zuut";
     public static final int ZOOM_VALUE = 17;
     public static final int BEARING_VALUE = 90;
     public static final int TILT_VALUE = 40;
