@@ -94,7 +94,7 @@ public final class MapsActivity extends AppCompatActivity implements OnMapReadyC
         ImageView aboutButton = findViewById(R.id.btn_about);
         TextView title = findViewById(R.id.mapsToolbarTitle);
 
-        title.setText(Constants.SCOOTI_E);
+        title.setText(Constants.ZUUT);
         settingsButton.setOnClickListener(v -> openFilterActivity());
         aboutButton.setOnClickListener(v -> openAboutActivity());
     }
