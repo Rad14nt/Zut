@@ -49,8 +49,6 @@ public abstract class ZuutDatabase extends RoomDatabase {
                             getInstance(context).getCompanyDao().insertCompanies(companies);
                         });
                     }
-                })
-                .build();
-
+                }).build();
     }
 }
