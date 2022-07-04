@@ -1,3 +1,30 @@
-<resources>
-    <string name="app_name">Zuut</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">Zuut</string>
+    <string name="title_activity_maps">Karte</string>
+    <string name="title_activity_email">Email</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="filter_info">Um weitere E-Scooter-Anbieter hinzuzufügen, müssen Sie sich bei jedem einzeln anmelden.</string>
+    <string name="circ" translatable="false">Circ</string>
+    <string name="UserEmail">Benutzer Email</string>
+    <string name="UserToken">Benutzer Token</string>
+    <string name="geben_sie_bitte_ihre_e_mail_an">Gebe sie bitte ihre Email an</string>
+    <string name="Filter">Um andere E-Scooter-Unternehmen auf der Karte zu sehen, müssen Sie sich bei jedem separat anmelden</string>
+    <string name="About">Was ist Scooti-E</string>
+    <string name="copyright">Urheberrecht/andere Rechtssachen</string>
+    <string name="companies">Firmen</string>
+    <string name="send">Senden</string>
+    <string name="code" translatable="false">Code</string>
+    <string name="bird" translatable="false">Bird</string>
+    <string name="register">Registrieren</string>
+    <string name="aboutUsTranslation">Über uns</string>
+    <string name="settingsTranslation">Einstellungen</string>
+    <string name="tokenTranslation">Authentifizierung</string>
+    <string name="company">Firma</string>
+    <string name="battery">Batterie</string>
+    <string name="estimated_range">Reichweite</string>
+    <string name="price">Preis</string>
+    <string name="geben_sie_bitte_ihre_telefonnummer_an">Bitte geben Sie ihre Telefonnummer an ohne 0 am Anfang</string>
+    <string name="UserPhone">"Ihre Telefonnummer "</string>
+    <string name="voi_phone_title">Bei Voi einloggen</string>
+    <string name="checkEmail">Bitte überprüfen Sie Ihre E-Mail</string>
 </resources>

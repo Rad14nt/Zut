@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="filter_info">Per specificare altri fornitori di scooter elettronici, è necessario accedere e registrarsi nuovamente con ciascuno separatamente.</string>
+    <string name="UserEmail">Email dell\'utente</string>
+    <string name="UserToken">Codice utente</string>
+    <string name="geben_sie_bitte_ihre_e_mail_an">Inserisci il tuo indirizzo e-mail</string>
+    <string name="copyright">Informazioni legali</string>
+    <string name="companies">Fornitore</string>
+    <string name="send">Invia</string>
+    <string name="register">Registra</string>
+    <string name="aboutUsTranslation">Su di noi</string>
+    <string name="settingsTranslation">Impostazioni</string>
+    <string name="tokenTranslation">Autenticazione</string>
+    <string name="title_activity_maps">Mappa</string>
+    <string name="title_activity_email">Email</string>
+    <string name="estimated_range">Gamma Stimata</string>
+    <string name="Filter">Per vedere le altre aziende di e-scooter sulla mappa, è necessario accedere a ciascuna separatamente</string>
+    <string name="About">Cos\'è Zuut</string>
+    <string name="company">Compagnia</string>
+    <string name="battery">Batteria</string>
+    <string name="price">Prezzo</string>
+    <string name="geben_sie_bitte_ihre_telefonnummer_an" >Inserisci il tuo numero di telefono sans 0 a starto</string>
+    <string name="UserPhone" >"Il tuo numero di telefono "</string>
+    <string name="voi_phone_title">Login to Voi</string>
+    <string name="checkEmail">Per favore controlla la tua email</string>
+</resources>
