@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_email">Email</string>
+    <string name="filter_info">To add additional e-scooter providers, you must log in to each one separately.</string>
+    <string name="UserEmail">User Email</string>
+    <string name="UserToken">User Token</string>
+    <string name="geben_sie_bitte_ihre_e_mail_an">Please Enter your Email</string>
+    <string name="Filter" translatable="false">To see other E-Scooter Companies on the Map, you\'ll need to log in to each separately</string>
+    <string name="About" translatable="false">What is Scooti-E</string>
+    <string name="copyright">Copyright/Other Law Stuff</string>
+    <string name="companies">Companies</string>
+    <string name="send">Send</string>
+    <string name="register">Register</string>
+    <string name="aboutUsTranslation">About Us</string>
+    <string name="settingsTranslation">Settings</string>
+    <string name="tokenTranslation">Authentication</string>
+    <string name="company">Company</string>
+    <string name="battery">Battery</string>
+    <string name="estimated_range">Range</string>
+    <string name="price">Price</string>
+    <string name="geben_sie_bitte_ihre_telefonnummer_an" >Please enter your Phone Number without 0 at the start</string>
+    <string name="UserPhone" >"Your Phone Number "</string>
+    <string name="voi_phone_title">Login to Voi</string>
+    <string name="checkEmail">Please Check your E-Mail Adress</string>
+</resources>
