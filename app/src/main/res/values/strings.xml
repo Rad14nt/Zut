@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name" translatable="false">ScootiE</string>
+    <string name="app_name" translatable="false">Zut</string>
     <string name="title_activity_maps">Karte</string>
     <string name="title_activity_email">Email</string>
     <string name="login" translatable="false">Login</string>
@@ -9,7 +9,7 @@
     <string name="UserToken">Benutzer Token</string>
     <string name="geben_sie_bitte_ihre_e_mail_an">Gebe sie bitte ihre Email an</string>
     <string name="Filter">Um andere E-Scooter-Unternehmen auf der Karte zu sehen, müssen Sie sich bei jedem separat anmelden</string>
-    <string name="About">Was ist Scooti-E</string>
+    <string name="About">Was ist Zut</string>
     <string name="copyright">Urheberrecht/andere Rechtssachen</string>
     <string name="companies">Firmen</string>
     <string name="send">Senden</string>
